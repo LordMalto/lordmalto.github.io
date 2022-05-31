@@ -3,11 +3,11 @@
 <span id="a">lord@malto</span>:<span id="b">~</span><span id="c">$</span> cd da_lord<!-- kjsdfhkjdhsfkjdshfkj -->
 <span id="a">lord@malto</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->lords_message.txt<br/><br/>
 
-Find out some things about me: <!-- laglaglaglaglaglaglaglaglaglaglaglag --><a href=" aboutme.html">aboutme.html</a>
+Find out some things about me: <!-- laglaglaglaglaglaglaglaglaglaglaglag --><a href=" #">Nothing embedded yet!</a>
 
 
 GitHub: <!-- laglaglaglaglaglaglaglaglaglaglaglag --><a href=" https://github.com/LordMalto">https://github.com/LordMalto</a>
 
 Discord: <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf --><a href=" https://discord.gg/YQSuCSX">https://discord.gg/YQSuCSX</a>
 
-Send me an Email: <!-- slightdelayhere--><!-- longlonglongcomment --><a href=" malteschubert28816@gmail.com">malteschubert28816@gmail.com</a>
+Send me an Email: <!-- slightdelayhere--><!-- longlonglongcomment --><a href=" #">Currently not available!</a>
